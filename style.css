@@ -1,0 +1,45 @@
+* {
+  background-color: rgb(29, 27, 27);
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 1.1rem;
+}
+main > p {
+  text-align: center;
+}
+
+.about {
+  text-align: center;
+}
+.portfolio {
+  font-size: 1.3rem;
+  color: rgb(198, 211, 194);
+}
+.info > img {
+  margin: auto;
+  display: flex;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text-info > h2 {
+  text-align: center;
+}
+.text-info > p {
+  text-align: center;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+
+  text-align: center;
+}
